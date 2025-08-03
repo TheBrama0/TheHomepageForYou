@@ -1,2 +1,2 @@
 # TheHomepageForYou
-A costom homepage for Android browser 
+A simple costom homepage for Android browser 
